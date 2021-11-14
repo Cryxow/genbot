@@ -1,0 +1,17 @@
+{
+    "ownerID": "803403422278746132",
+    "prefix": "?",
+    "Color": "RANDOM",
+    "GenChannelID": "906142744806817872",
+    "GenRole": "909572072714420224",
+    "GenCooldown": "0",
+    "footer": "NightGen",
+    "botToken": "ODc4NzcyNzAxMDAxNTY0MTkw.YSGC2g.KH6-IpQugxxrAQsiqPDyTOxskFw",
+    "ErrorEmoji": "<:c_offline:879630480767606824>",
+    "SuccessEmoji": "<:c_online:879630340954652733>",
+    "WarningEmoji": "<:c_idle:879630514636607539>",
+    "eth": "0xf537cC27c6d424e05972A8abD54712C3ADB2e295",
+    "btc": "bc1qt9ly68ej796aapv8fqxrcj40n5gn6eflkvagxf",
+    "Paypal": "paypal.me/Cabeleira667",
+    "Telegram": "https://t.me/dorksgen"
+}
